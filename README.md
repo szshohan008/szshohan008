@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sadequzzaman Shohan</h1>
-<h3 align="center">A passionate Mobile App developer from Bangladesh</h3>
+<h3 align="center">A enthusiastic Mobile App developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szshohan008&label=Profile%20views&color=0e75b6&style=flat" alt="szshohan008" /> </p>
 
